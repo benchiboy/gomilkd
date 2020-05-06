@@ -1,0 +1,8 @@
+{
+	"config":{
+		"DB_URL": "root:123456@tcp(localhost:3306)/light",
+		"LISTEN":8000,
+		"OPEN_CONNS":2,
+		"IDLE_CONNS":2
+	}
+}
